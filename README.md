@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a senior at Smith College  <br>Computer Science and Italian Studies Major<br><br>I have a passion for creative solutions and working with data. This past summer I interned at L.L. Bean where I developed an internal tool for a depreciated database, and this year I am participating in the Break Through Tech AI program developing solutions using Machine Learning. <br><br>I hope to bring my creativity and technical know-how to my career!</p>
+<p align="left">I'm a Smith College graduate  <br>Computer Science and Italian Studies<br><br>I have a passion for creative solutions and working with data. This past summer, I worked at Notable Systems as a Business Rules Developer on the Client Success and Engineering team. <br><br>I hope to bring my creativity and technical know-how to my career!</p>
 
 ###
 
