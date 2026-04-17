@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hillarydunkley16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hillarydunkley16" alt="GitHub Streak" /></a>
 </div>
 
 ###
