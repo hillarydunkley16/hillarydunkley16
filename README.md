@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">I'm a Smith College graduate  <br>Computer Science and Italian Studies<br><br>I have a passion for creative solutions and working with data. This past summer, I worked at Notable Systems as a Business Rules Developer on the Client Success and Engineering team. <br><br>I hope to bring my creativity and technical know-how to my career!</p>
+<p align="left">Smith College graduate (Computer Science, Italian Studies) with experience in AI-driven automation, data processing workflows, and compliance-focused systems. Built business rules engines and Python automation for healthcare coverage determination, improving workflow efficiency and process reliability.
+
+Strong foundation in SQL databases, machine learning, and Large Language Models (LLMs), with experience in technical documentation (Markdown), UI/UX collaboration, and cross-functional communication.</p>
 
 ###
 
