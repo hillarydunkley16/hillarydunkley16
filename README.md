@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://github.com/hillarydunkley16/hillarydunkley16/blob/main/HDunkley_headshot.JPG"  />
-</div>
-
 ###
 
 <div align="center">
